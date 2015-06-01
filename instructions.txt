@@ -1,0 +1,6 @@
+Write a function that will receive a big number as a string
+and a number of digits to multiply and will return the biggest product contained in the number.
+
+Please include the unit tests required to match at least 5 sample digit counts
+(ex. 4, 13, 17, 25, 50)
+
